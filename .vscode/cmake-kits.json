@@ -1,0 +1,10 @@
+[
+  {
+    "name": "gcc",
+    "toolchainFile": "cmake/toolchains/gcc.cmake"
+  },
+  {
+    "name": "clang",
+    "toolchainFile": "cmake/toolchains/clang.cmake"
+  }
+]
